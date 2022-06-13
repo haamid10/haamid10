@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-My name is Erik Hanchett and I'm a full stack developer! 👋
+My name is hamiid apdi  and I'm a mernstack developer! 👋
 
 - 🔭 I’m currently working on ... just lerning
 - 🌱 I’m currently learning ... react.js
