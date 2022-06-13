@@ -13,5 +13,5 @@ My name is Erik Hanchett and I'm a full stack developer! 👋
 - 💬 Ask me about ... anything
 - 📫 How to reach me: ... [twitter.com] (https://twitter.com/HameedApdi)
 - 😄 Pronouns: ... he/him
-- ⚡ Fun fact: ... i'm half finished
+- ⚡ Fun fact: ... i'm half finished.
 -->
