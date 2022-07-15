@@ -10,5 +10,5 @@ My name is hamiid apdi  and I'm a mernstack developer! 👋
 - 💬 Ask me about ... anything
 - 📫 How to reach me: ... [Haamid10](https://twitter.com/HameedApdi)
 - 😄 Pronouns: ... he/him
-- ⚡ Fun fact: ... i'm half finished.
+- ⚡ Fun fact: ... i'm half way.
 
